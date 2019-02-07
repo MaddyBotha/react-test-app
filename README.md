@@ -1,3 +1,13 @@
+# Hi Guys, Maddy here
+
+I re-created this as part of the Udemy Course - Beginner Full Stack Developer.
+
+Please like and fork if you want to tinker on it further!
+
+
+
+## REACT APP
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
